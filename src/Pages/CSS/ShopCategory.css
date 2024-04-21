@@ -33,7 +33,11 @@
     height: 70px;
     border-radius: 75px;
     background: orangered;
-    color: black;
+    color: whitesmoke;
     font-size: 18px;
     font-weight:500 ;
+}
+.category-loadmore:hover{
+    transform: scale(1.05);
+    transition: 1s;
 }
